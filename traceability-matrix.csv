@@ -1,0 +1,10 @@
+
+Requirement_ID,Requirement,Implementation_File,Test_ID,Evidence_File,Status
+SG-REQ-001,Read temperature and humidity,TBD,SG-TST-001,TBD,Pending
+SG-REQ-002,Validate readings and detect sensor failures,TBD,SG-TST-002,TBD,Pending
+SG-REQ-003,Evaluate configured thresholds,TBD,SG-TST-003,TBD,Pending
+SG-REQ-004,Activate physical alert,TBD,SG-TST-004,TBD,Pending
+SG-REQ-005,Clear alert after safe recovery,TBD,SG-TST-005,TBD,Pending
+SG-REQ-006,Print timestamped serial logs,TBD,SG-TST-006,TBD,Pending
+SG-REQ-007,Separate firmware responsibilities,TBD,SG-TST-007,TBD,Pending
+SG-REQ-008,Perform startup diagnostics and handle errors,TBD,SG-TST-008,TBD,Pending
